@@ -1,1 +1,1 @@
-asdasdasd
+version_code: 1; version_name: vanilla;
