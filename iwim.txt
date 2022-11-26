@@ -1,1 +1,1 @@
-version_code: 0; version_name: cocoa; version_is_important: no;
+version_code: 0; version_name: vanilya; version_is_important: no;
